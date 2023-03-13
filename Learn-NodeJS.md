@@ -26,11 +26,11 @@
 
 আমরা যদি  `CMD `  -তে  `node ` লিখে Enter -এ ক্লিক করি তাহলে REPL ওপেন হবে। 
 
- ![](img\REPL.png)
+ <img src="img\REPL.png" style="zoom:100%;" />
 
 NodeJS -এর যেকোনো মেথডের প্রপার্টি আমরা চাইলে REPL -এর সাহায্যে দেখতে পারি। 
 
-  ![](img\REPL-2.png)
+<img src="img\REPL-2.png" style="zoom:100%;" />
 
 
 
